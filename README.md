@@ -57,16 +57,6 @@ Working at the intersection of product thinking and hands-on engineering.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=karthiknitt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiknitt&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
----
 
 ### 💡 Currently
 
